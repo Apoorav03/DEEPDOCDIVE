@@ -17,7 +17,7 @@ DeepDocDive is an intelligent conversational assistant that allows you to upload
 ## Live Demo
 
 Experience DeepDocDive immediately:  
-👉 [https://deepdocdive.streamlit.app](https://deepdocdive.streamlit.app)
+👉 [https://deepdocdivetiet.streamlit.app/](https://deepdocdivetiet.streamlit.app/)
 
 ## Tech Stack 🧩
 
@@ -75,7 +75,7 @@ streamlit run streamlit_app.py
 
 ## Usage Guide
 
-1. Visit the [live app](https://deepdocdive.streamlit.app) or run locally
+1. Visit the [live app](https://deepdocdivetiet.streamlit.app/) or run locally
 2. Enter your Groq API key in the sidebar
 3. Upload one or more PDF documents
 4. Click "Process PDFs" to build the knowledge base
